@@ -1,0 +1,13 @@
+sub1=int(input("enter your tamil mark : "))
+sub2=int(input("enter your english mark: "))
+sub3=int(input("enter your economics mark: "))
+sub4=int(input("enter your biology mark: "))
+sub5=int(input("enter your chemistry mark: "))
+total = sub1+sub2+sub3+sub4+sub5
+print("\n--- Your marklist ---")
+print("Tamil :",sub1)
+print("English :",sub2)
+print("Economics:",sub3)
+print("Biology:",sub4)
+print("Chemistry:",sub5)
+print("Total   :",total)
