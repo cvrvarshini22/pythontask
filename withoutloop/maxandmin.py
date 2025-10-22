@@ -1,0 +1,5 @@
+numbers = list(map(int, input("enter the number separated by spaces: ").split( )))
+maximum = max(numbers)
+minimum = min(numbers)
+print("maxixmum value:",maximum)
+print("minimum value:",minimum)
