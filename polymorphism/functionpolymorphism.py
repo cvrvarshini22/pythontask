@@ -1,6 +1,0 @@
-name = input("enter the word: ")
-numbers = input("enter some number: ")
-fruits = tuple(input("enter some fruits: "))
-print("\n length of the string: ", len(name))
-print("\n length of the number: ",len(numbers))
-print("\n length of the fruits: ", len(fruits))
