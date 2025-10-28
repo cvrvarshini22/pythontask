@@ -1,0 +1,6 @@
+s = int(input("Enter first number: "))
+n = int(input("Enter second number: "))
+print("sum of two numbers:", s + n)
+x = input("enter the first string: ")
+y = input("enter the second string: ")
+print("concatenation of string is: ", x + y)
